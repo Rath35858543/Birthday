@@ -1,7 +1,7 @@
 Made this as a birthday present for my girlfriend during lockdown. Small attempt for virtual party.
 
 Sample screenshot of the application . https://rath35858543.github.io/Birthday/
-![GitHub Logo](/images/screenshots/sample.jpg)
+![GitHub Logo](/images/ballons/Balloon-Border.png)
 
 
 Technology Used: Javascript, CSS3, HTML5
