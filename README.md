@@ -1,6 +1,6 @@
 Made this as a birthday present for my girlfriend during lockdown. Small attempt for virtual party.
 
-Sample screenshot of the application .
+Sample screenshot of the application . https://rath35858543.github.io/Birthday/
 ![GitHub Logo](/images/screenshots/sample.jpg)
 
 
@@ -8,6 +8,6 @@ Technology Used: Javascript, CSS3, HTML5
 
 
 ## Open Normally through browser
-Open index.html in browser and navigate
+Open index.html in browser and navigate https://rath35858543.github.io/Birthday/
 
 
