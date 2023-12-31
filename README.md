@@ -1,4 +1,4 @@
-Made this as a birthday present for my girlfriend during lockdown. Small attempt for virtual party.
+Made this as a birthday present for my brother. Small attempt for virtual party.
 
 Sample screenshot of the application . https://rath35858543.github.io/Birthday/
 ![GitHub Logo](/images/ballons/Balloon-Border.png)
